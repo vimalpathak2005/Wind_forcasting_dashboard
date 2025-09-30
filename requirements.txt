@@ -6,3 +6,9 @@ scikit-learn
 pmdarima
 pandas
 matplotlib
+statsmodels
+urllib3
+requests
+scipy
+
+

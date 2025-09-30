@@ -16,7 +16,7 @@ from src.models.forecast import fit_arima, forecast_arima, calculate_dataset_sta
 
 st.set_page_config(page_title="🌬️ Wind Forecasting Dashboard", layout="wide")
 
-st.title("🌬️ Wind Speed Forecasting and Analysis")
+st.title("AeroCast: Wind Speed Forecasting and Analysis")
 st.markdown("This app fetches, preprocesses, and forecasts wind speed data using ARIMA.")
 
 # Custom CSS for better styling with PROPER TEXT VISIBILITY
